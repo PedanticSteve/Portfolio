@@ -1,6 +1,6 @@
 # My Python Portfolio
 
-Welcome to my Python project portfolio! Below are some projects I’ve built to showcase my skills in both professional and tabletop RPG-related applications.
+Welcome to my Python project portfolio! Below are some projects I’ve built to practice my python skills in both professional and tabletop RPG-related applications.  
 
 ## 📂 Projects  
 
